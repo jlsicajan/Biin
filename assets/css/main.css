@@ -1,0 +1,44 @@
+body, h1, h2, h3, h4, h5 {
+    font-family: "Poppins", sans-serif !important;
+}
+
+body {
+    font-size: 16px !important;
+    overflow-x: hidden;
+}
+
+img {
+    margin-bottom: -8px;
+}
+
+.mySlides {
+    display: none;
+}
+
+.m-width-1500 {
+    max-width: 1500px
+}
+
+.c-black {
+    color: black !important;
+}
+
+.no-mb {
+    margin-bottom: unset !important;
+}
+
+.m-width-100 {
+    max-width: 100%;
+}
+
+.no-width {
+    width: unset !important;
+}
+
+.b-white{
+    background-color: white !important;
+}
+
+.l-height-15{
+    line-height: 1.5 !important;
+}
