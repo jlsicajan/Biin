@@ -2,115 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20598941-c919-4ae1-8a9b-4ca566e4fbed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new_template_assets/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/graph-01.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/graph-02.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/graph-03.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/graph-04.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/img-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/img-bg-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/logo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/logo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/logo-footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/js/jquery-1.11.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/js/jquery.main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/_mq.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/all.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/base/_markup-mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_breadcrumbs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_button-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_component-animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_glyphicons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_input-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pager.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_popovers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_progress-bars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_scaffolding.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_thumbnails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_wells.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_center-block.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_hide-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_opacity.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/biin_new_template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biin.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/biin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/all.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/all.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,8 +69,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8159">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="218">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="723">
+              <caret line="1328" column="25" lean-forward="true" selection-start-line="1328" selection-start-column="25" selection-end-line="1328" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="753">
+              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -185,11 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>zen</find>
-      <find>Publicp</find>
-      <find>blico</find>
-      <find>terisc</find>
-      <find>img</find>
       <find>biin</find>
       <find>img-circle</find>
       <find>customer-name</find>
@@ -208,6 +131,18 @@
       <find>black</find>
       <find>boos</find>
       <find>bootstrap</find>
+      <find>header</find>
+      <find>#na</find>
+      <find>visual</find>
+      <find>cta-footer</find>
+      <find>main-zero</find>
+      <find>visual-list</find>
+      <find>slide-holder</find>
+      <find>visual-cont</find>
+      <find>price-main</find>
+      <find>price-additional</find>
+      <find>subsc</find>
+      <find>BEB</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle no-width</replace>
@@ -242,6 +177,11 @@
         <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss" />
         <option value="$PROJECT_DIR$/views/biin_new_template.html" />
         <option value="$PROJECT_DIR$/views/biin.html" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/css/all.css" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/all.scss" />
       </list>
     </option>
   </component>
@@ -350,12 +290,12 @@
       <workItem from="1547610347257" duration="3441000" />
       <workItem from="1547656242204" duration="3710000" />
       <workItem from="1547865281344" duration="7000" />
-      <workItem from="1550722378635" duration="1794000" />
+      <workItem from="1550722378635" duration="4568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19066000" />
+    <option name="totallyTimeSpent" value="21840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="3200" height="1635" extended-state="6" />
@@ -373,7 +313,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298585" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.42889056" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -470,9 +410,6 @@
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_theme.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -503,13 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -562,10 +492,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="1328" column="25" lean-forward="true" selection-start-line="1328" selection-start-column="25" selection-end-line="1328" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8159">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="218">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
