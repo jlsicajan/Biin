@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20598941-c919-4ae1-8a9b-4ca566e4fbed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/new_template_assets/images/second_screen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/testimonial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/people 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/people_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_color.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_color.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/all.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/all.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/biin_new_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/biin_new_template.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,41 +29,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/biin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="76" column="18" lean-forward="true" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
-              <folding>
-                <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/biin_new_template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="78" column="46" lean-forward="true" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
+            <state relative-caret-position="315">
+              <caret line="282" column="54" selection-start-line="282" selection-start-column="54" selection-end-line="282" selection-end-column="54" />
               <folding>
                 <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -67,39 +44,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="723">
-              <caret line="1328" column="25" lean-forward="true" selection-start-line="1328" selection-start-column="25" selection-end-line="1328" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -113,27 +59,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>biin</find>
-      <find>img-circle</find>
-      <find>customer-name</find>
-      <find>Porque</find>
-      <find>font-fam</find>
-      <find>font-family</find>
-      <find>les</find>
-      <find>por q</find>
-      <find>testimono</find>
-      <find>owl</find>
-      <find>main</find>
-      <find>Flickity</find>
-      <find>src=&quot;</find>
-      <find>../new_template_assets/</find>
-      <find>src=</find>
-      <find>black</find>
       <find>boos</find>
       <find>bootstrap</find>
       <find>header</find>
       <find>#na</find>
-      <find>visual</find>
       <find>cta-footer</find>
       <find>main-zero</find>
       <find>visual-list</find>
@@ -143,10 +72,28 @@
       <find>price-additional</find>
       <find>subsc</find>
       <find>BEB</find>
+      <find>Desg</find>
+      <find>-15px</find>
+      <find>logo</find>
+      <find>camion</find>
+      <find>text-dark</find>
+      <find>info</find>
+      <find>about the</find>
+      <find>como funcoin</find>
+      <find>clientes</find>
+      <find>loremp ips</find>
+      <find>c-black</find>
+      <find>testimonial</find>
+      <find>img-01</find>
+      <find>flickity</find>
+      <find>subscri</find>
+      <find>visual</find>
+      <find>pricin</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle no-width</replace>
       <replace>customer-name c-black</replace>
+      <replace>text-dark</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -167,21 +114,22 @@
         <option value="$PROJECT_DIR$/assets/css/owl.carousel.css" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/assets/css/testimonial.css" />
         <option value="$PROJECT_DIR$/assets/css/flickity.min.css" />
         <option value="$PROJECT_DIR$/assets/css/reset.min.css" />
         <option value="$PROJECT_DIR$/assets/js/flickity.pkgd.min.js" />
         <option value="$PROJECT_DIR$/biin.html" />
         <option value="$PROJECT_DIR$/views/sections/header.html" />
-        <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss" />
-        <option value="$PROJECT_DIR$/views/biin_new_template.html" />
-        <option value="$PROJECT_DIR$/views/biin.html" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/css/all.css" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/all.scss" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" />
+        <option value="$PROJECT_DIR$/views/biin.html" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" />
+        <option value="$PROJECT_DIR$/assets/css/testimonial.css" />
+        <option value="$PROJECT_DIR$/views/biin_new_template.html" />
       </list>
     </option>
   </component>
@@ -195,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +154,24 @@
             <path>
               <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="pics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
               <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
@@ -231,13 +197,19 @@
             <path>
               <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,18 +221,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/new_template_assets/images" />
+      <recent name="$PROJECT_DIR$/new_template_assets" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$/pics" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/new_template_assets/scss" />
       <recent name="$PROJECT_DIR$/views" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/new_template_assets" />
-      <recent name="$PROJECT_DIR$/assets/js" />
-      <recent name="$PROJECT_DIR$/assets/css" />
-      <recent name="$PROJECT_DIR$/pics" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -290,20 +262,22 @@
       <workItem from="1547610347257" duration="3441000" />
       <workItem from="1547656242204" duration="3710000" />
       <workItem from="1547865281344" duration="7000" />
-      <workItem from="1550722378635" duration="4568000" />
+      <workItem from="1550722378635" duration="4836000" />
+      <workItem from="1550727693587" duration="324000" />
+      <workItem from="1550728473169" duration="3017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21840000" />
+    <option name="totallyTimeSpent" value="25449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="3200" height="1635" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833223" visible="true" weight="0.24904943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833223" visible="true" weight="0.19697943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5016678" side_tool="true" weight="0.24983211" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -314,8 +288,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298585" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.42889056" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.42878014" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,21 +311,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/pics/biin_logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/owl.carousel.min.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/owl.carousel_2.min.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/testimonial.js" />
     <entry file="file://$PROJECT_DIR$/assets/css/owl.carousel.css" />
     <entry file="file://$PROJECT_DIR$/assets/css/owl.carousel_2.css" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
     <entry file="file://$PROJECT_DIR$/assets/js/owl.carousel.js" />
     <entry file="file://$PROJECT_DIR$/assets/css/reset.min.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -373,13 +339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/testimonial.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/flickity.pkgd.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
@@ -390,26 +349,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/sections/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="n#header#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/views/sections/header.html" />
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_theme.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -429,13 +369,6 @@
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_background-variant.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -450,12 +383,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/biin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="76" column="18" lean-forward="true" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        <state relative-caret-position="784">
+          <caret line="135" column="18" lean-forward="true" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
           <folding>
-            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -468,57 +418,115 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/biin_new_template.html">
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="78" column="46" lean-forward="true" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
-          <folding>
-            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="234">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="1328" column="25" lean-forward="true" selection-start-line="1328" selection-start-column="25" selection-end-line="1328" selection-end-column="25" />
+        <state relative-caret-position="381">
+          <caret line="248" column="5" lean-forward="true" selection-start-line="248" selection-start-column="5" selection-end-line="248" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="1118" column="22" lean-forward="true" selection-start-line="1118" selection-start-column="22" selection-end-line="1118" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/second_screen.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/testimonial.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-01.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-02.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-03.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-04.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/img-01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/img-bg-01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/logo-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pics/app.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pics/camion22.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pics/downloads.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pics/googleplay.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pics/people_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pics/biin_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/biin_new_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="282" column="54" selection-start-line="282" selection-start-column="54" selection-end-line="282" selection-end-column="54" />
+          <folding>
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>

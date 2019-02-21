@@ -9,6 +9,7 @@ mobileLandscape:480px);
 @import "bootstrap/mixins";
 @import "base/markup-mixins";
 @import "mq";
+@import "utilities/biin";
 
 * {
 	font-size: 100.01%;
@@ -72,7 +73,7 @@ p {
 }
 .logo {
 	float: left;
-	margin: 0 0 0 15px;
+	margin: -10px 0 0 15px;
 	width: 151px;
 	height: 41px;
 }
@@ -240,7 +241,7 @@ p {
 		display: block;
 		font-size: 1.6rem;
 		line-height: 1.5;
-		color: #f9e084;
+		color: #cb3243;
 		text-transform: uppercase;
 	}
 	.text-block {

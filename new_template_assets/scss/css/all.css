@@ -1,3 +1,23 @@
+.biin_logo {
+  max-width: 70px !important;
+  max-height: 70px !important; }
+
+.main_header_image {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  width: 100%; }
+
+.d-flex {
+  display: flex !important; }
+
+.align-items-center {
+  align-items: center !important; }
+
+.justify-center {
+  justify-content: center !important; }
+
 * {
   font-size: 100.01%; }
 
@@ -54,7 +74,7 @@ p {
 
 .logo {
   float: left;
-  margin: 0 0 0 15px;
+  margin: -10px 0 0 15px;
   width: 151px;
   height: 41px; }
 
@@ -206,7 +226,7 @@ p {
     display: block;
     font-size: 1.6rem;
     line-height: 1.5;
-    color: #f9e084;
+    color: #cb3243;
     text-transform: uppercase; }
   .visual .text-block {
     padding: 220px 0; }
