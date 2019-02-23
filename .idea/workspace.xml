@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20598941-c919-4ae1-8a9b-4ca566e4fbed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/app_screenshots.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Biin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Biin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/testimonial.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/0449f9a6651d844d8ecf5a3545f994a084bd4608/biin.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/0449f9a6651d844d8ecf5a3545f994a084bd4608/biin.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+            <state relative-caret-position="-287">
+              <caret line="175" column="50" lean-forward="true" selection-start-line="175" selection-start-column="50" selection-end-line="175" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -59,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
+            <state relative-caret-position="-9635">
               <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
             </state>
           </provider>
@@ -68,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="887">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="1010">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -133,7 +125,6 @@
       <find>como funcoin</find>
       <find>clientes</find>
       <find>loremp ips</find>
-      <find>c-black</find>
       <find>testimonial</find>
       <find>img-01</find>
       <find>flickity</find>
@@ -143,6 +134,7 @@
       <find>../</find>
       <find>rest</find>
       <find>mySlides</find>
+      <find>c-black</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle no-width</replace>
@@ -182,9 +174,9 @@
         <option value="$PROJECT_DIR$/views/biin.html" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" />
         <option value="$PROJECT_DIR$/views/biin_new_template.html" />
-        <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" />
         <option value="$PROJECT_DIR$/assets/css/testimonial.css" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -211,13 +203,18 @@
             <path>
               <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Biin" type="462c0819:PsiDirectoryNode" />
-              <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="pics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Biin" type="462c0819:PsiDirectoryNode" />
               <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
@@ -261,11 +258,11 @@
       <recent name="$PROJECT_DIR$/assets/css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/pics" />
       <recent name="$PROJECT_DIR$/new_template_assets/images" />
       <recent name="$PROJECT_DIR$/new_template_assets" />
       <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$/assets/css" />
-      <recent name="$PROJECT_DIR$/pics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -301,15 +298,16 @@
       <workItem from="1550778672367" duration="1319000" />
       <workItem from="1550781987986" duration="283000" />
       <workItem from="1550782581463" duration="734000" />
-      <workItem from="1550903261806" duration="2941000" />
+      <workItem from="1550903261806" duration="3940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30985000" />
+    <option name="totallyTimeSpent" value="31984000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="35" width="3200" height="1635" extended-state="6" />
+    <frame x="0" y="35" width="3200" height="1635" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833223" visible="true" weight="0.17807351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -506,20 +504,6 @@
     <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/testimonial.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1763">
@@ -560,10 +544,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9635">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1010">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+        <state relative-caret-position="-287">
+          <caret line="175" column="50" lean-forward="true" selection-start-line="175" selection-start-column="50" selection-end-line="175" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
