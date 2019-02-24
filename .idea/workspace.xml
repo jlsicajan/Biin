@@ -25,13 +25,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2474">
-              <caret line="331" column="42" selection-start-line="331" selection-start-column="42" selection-end-line="331" selection-end-column="42" />
+            <state relative-caret-position="574">
+              <caret line="148" column="64" lean-forward="true" selection-start-line="148" selection-start-column="64" selection-end-line="148" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="861">
+              <caret line="40" column="51" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="40" selection-end-column="51" />
+              <folding>
+                <element signature="n#li#0;n#ul#0;n#!!top" />
+                <element signature="n#li#1;n#ul#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -49,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6190">
-              <caret line="1402" column="24" selection-start-line="1402" selection-start-column="24" selection-end-line="1402" selection-end-column="24" />
+            <state relative-caret-position="368">
+              <caret line="1062" column="10" selection-start-line="1062" selection-start-column="10" selection-end-line="1062" selection-end-column="10" />
               <folding>
                 <element signature="e#9083#9375#0" />
               </folding>
@@ -58,23 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="641">
+              <caret line="95" column="19" lean-forward="true" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/biin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="227" column="19" selection-start-line="227" selection-start-column="19" selection-end-line="227" selection-end-column="31" />
+            <state relative-caret-position="902">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="23" />
               <folding>
-                <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -106,11 +116,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>-15px</find>
-      <find>logo</find>
-      <find>camion</find>
-      <find>text-dark</find>
-      <find>info</find>
       <find>about the</find>
       <find>como funcoin</find>
       <find>clientes</find>
@@ -129,13 +134,18 @@
       <find>jquery</find>
       <find>comunidad</find>
       <find>suscribe_btn</find>
-      <find>cta</find>
-      <find>visual-area</find>
       <find>moderni</find>
       <find>como funcion</find>
       <find>mySlides</find>
-      <find>google ta</find>
       <find>w3-container</find>
+      <find>google ta</find>
+      <find>w3-content</find>
+      <find>visual-area</find>
+      <find>suscrib</find>
+      <find>funciona?</find>
+      <find>cta</find>
+      <find>subscribe_bt</find>
+      <find>how_</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle no-width</replace>
@@ -176,9 +186,10 @@
         <option value="$PROJECT_DIR$/views/biin_new_template.html" />
         <option value="$PROJECT_DIR$/assets/css/testimonial.css" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
-        <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/all.scss" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" />
       </list>
     </option>
   </component>
@@ -299,17 +310,18 @@
       <workItem from="1550778672367" duration="1319000" />
       <workItem from="1550781987986" duration="283000" />
       <workItem from="1550782581463" duration="734000" />
-      <workItem from="1550903261806" duration="14883000" />
+      <workItem from="1550903261806" duration="21503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42927000" />
+    <option name="totallyTimeSpent" value="49547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="3200" height="1635" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833223" visible="true" weight="0.17807351" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833223" weight="0.17807351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5016678" side_tool="true" weight="0.24983211" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -335,7 +347,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/owl.carousel.min.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/owl.carousel_2.min.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/testimonial.js" />
     <entry file="file://$PROJECT_DIR$/assets/css/owl.carousel.css" />
@@ -511,6 +522,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="1062" column="10" selection-start-line="1062" selection-start-column="10" selection-end-line="1062" selection-end-column="10" />
+          <folding>
+            <element signature="e#9083#9375#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/testimonial.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1394">
@@ -518,43 +539,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6190">
-          <caret line="1402" column="24" selection-start-line="1402" selection-start-column="24" selection-end-line="1402" selection-end-column="24" />
+        <state relative-caret-position="861">
+          <caret line="40" column="51" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="40" selection-end-column="51" />
           <folding>
-            <element signature="e#9083#9375#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2474">
-          <caret line="331" column="42" selection-start-line="331" selection-start-column="42" selection-end-line="331" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#0;n#ul#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/biin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="227" column="19" selection-start-line="227" selection-start-column="19" selection-end-line="227" selection-end-column="31" />
+        <state relative-caret-position="902">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="23" />
           <folding>
-            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -571,6 +571,25 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="148" column="64" lean-forward="true" selection-start-line="148" selection-start-column="64" selection-end-line="148" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="95" column="19" lean-forward="true" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
         </state>
       </provider>
     </entry>
