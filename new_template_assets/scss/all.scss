@@ -1059,6 +1059,13 @@ p {
 		opacity: 1;
 		-webkit-transform: translate3d(0, 0, 0);
 		transform: translate3d(0, 0, 0);
+		ul{
+			li{
+				a{
+					color: #FFFFFF !important;
+				}
+			}
+		}
 	}
 	#cta {
 		margin: -410px 0 41px;
@@ -1400,7 +1407,7 @@ p {
 		text-align: center;
 	}
 	.visual-container .visual-area + .visual-area, .visual-container .visual-area {
-		padding: 15px 0;
+		padding: 25px 0
 	}
 	.plan {
 		max-width: 260px;
