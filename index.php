@@ -107,7 +107,7 @@
                 </span>
             </div>
         </div>
-        <img src="assets/pics/second_banner.jpg" alt="Image 1" class="w3-image main_header_image">
+        <img src="assets/pics/first_banner.jpg" alt="Image 1" class="w3-image main_header_image">
     </section>
     <section class="main">
         <div class="container">

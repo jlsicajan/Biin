@@ -20,7 +20,7 @@ $email->setFrom("cuentanos@biin.mx", "Biin.");
 $email->setSubject("Biin Transporte Publico");
 $email->addTo($new_email, '');
 $email->addContent("text/plain", "Paga el transporte público con tu celular - Descarga nuestra aplicación, acerca tu celular al lector y olvidate de las monedas.");
-$email->addContent("text/html", '<h1 class="w3-jumbo"><font color="black"><b>BiiN</b></font><img src="http://www.biin.mx/assets/pics/biin_logo.png" alt="Biin" style="width:100px;height:100px;"></h1><h2><font color="red">Reinventando el transporte Público!</font></h2>');
+$email->addContent("text/html", '<h1 class="w3-jumbo"><font color="black"><b>BiiN</b></font><img src="http://www.biin.mx/assets/pics/biin_logo.png" alt="Biin" style="width:100px;height:100px;"></h1><h2><font color="red">¡Muchas gracias por suscribirte a nuestra newsletter! A partir de ahora recibirás en tu correo novedades de Biin</font></h2>');
 $sendgrid = new \SendGrid('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');
 
 try {

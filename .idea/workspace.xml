@@ -2,232 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20598941-c919-4ae1-8a9b-4ca566e4fbed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pics/first_banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pics/second_banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/backgrounds.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Biin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Biin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/flickity.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/flickity.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/reset.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/reset.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/testimonial.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/welcome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/flickity.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/flickity.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/NFC icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/NFC icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/app.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/app.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/biin_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/biin_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/camion22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/camion22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/downloads.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/downloads.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/gentecelular.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/gentecelular.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/googleplay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/googleplay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/itzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/itzel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/jose.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/jose.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/luis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/luis.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/people_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/people_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/registra.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/registra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/user_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/user_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/user_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/user_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/user_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/user_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pics/validate.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/validate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/favicons/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/favicons/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/app_screenshots.gif" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/app_screenshots.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-01.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-02.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-03.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-04.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/img-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/img-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/img-bg-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/img-bg-01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-footer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/second_app_screenshots.gif" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/second_app_screenshots.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/second_screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/second_screen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/js/jquery-1.11.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/js/jquery-1.11.2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/js/jquery.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/js/jquery.main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/0449f9a6651d844d8ecf5a3545f994a084bd4608/biin.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/0449f9a6651d844d8ecf5a3545f994a084bd4608/biin.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_alerts.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_alerts.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_badges.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_badges.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_breadcrumbs.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_breadcrumbs.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_button-groups.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_button-groups.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_buttons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_buttons.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_carousel.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_carousel.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_close.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_close.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_code.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_code.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_color.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_color.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_component-animations.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_component-animations.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_dropdowns.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_dropdowns.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_forms.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_forms.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_glyphicons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_glyphicons.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_grid.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_grid.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_input-groups.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_input-groups.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_jumbotron.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_jumbotron.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_labels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_labels.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_list-group.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_list-group.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_media.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_media.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_mixins.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_mixins.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_modals.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_modals.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navbar.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navbar.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navs.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navs.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_normalize.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_normalize.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pager.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pager.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pagination.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pagination.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_panels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_panels.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_popovers.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_popovers.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_print.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_print.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_progress-bars.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_progress-bars.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-embed.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-embed.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-utilities.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-utilities.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_scaffolding.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_scaffolding.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tables.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_thumbnails.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_thumbnails.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tooltip.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tooltip.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_type.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_type.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_utilities.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_utilities.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_wells.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_wells.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/9eb323348467776539d8c3618ca1ee74db0916f6/_markup-mixins.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/9eb323348467776539d8c3618ca1ee74db0916f6/_markup-mixins.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_alerts.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_alerts.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_background-variant.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_background-variant.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_border-radius.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_border-radius.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_buttons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_buttons.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_center-block.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_center-block.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_clearfix.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_clearfix.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_forms.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_forms.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_gradients.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_gradients.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid-framework.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid-framework.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_hide-text.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_hide-text.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_image.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_image.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_labels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_labels.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_list-group.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_list-group.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-divider.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-divider.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-vertical-align.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-vertical-align.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_opacity.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_opacity.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_pagination.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_pagination.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_panels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_panels.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_progress-bar.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_progress-bar.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_reset-filter.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_reset-filter.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_resize.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_resize.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_responsive-visibility.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_responsive-visibility.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_size.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_size.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_tab-focus.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_tab-focus.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_table-row.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_table-row.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-emphasis.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-emphasis.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-overflow.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-overflow.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_vendor-prefixes.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_vendor-prefixes.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_mq.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_mq.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/bootstrap.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/bootstrap.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/_mq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/_mq.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/all.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/all.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/base/_markup-mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/base/_markup-mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_alerts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_alerts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_badges.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_badges.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_breadcrumbs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_breadcrumbs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_button-groups.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_button-groups.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_carousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_close.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_code.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_component-animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_component-animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_dropdowns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_dropdowns.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_glyphicons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_glyphicons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_input-groups.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_input-groups.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_labels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_labels.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_modals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_modals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_normalize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pager.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pager.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_panels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_panels.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_popovers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_popovers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_print.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_progress-bars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_progress-bars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-embed.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_scaffolding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_scaffolding.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_theme.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_thumbnails.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_thumbnails.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tooltip.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_type.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_wells.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_wells.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_alerts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_alerts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_center-block.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_center-block.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_hide-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_hide-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_labels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_labels.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-vertical-align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_opacity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_opacity.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_panels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_panels.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_progress-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_reset-filter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_responsive-visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_tab-focus.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_table-row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-overflow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_vendor-prefixes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/run_sass.sh" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/run_sass.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_template_assets/videos/biinvideo.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/videos/biinvideo.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emails.txt" beforeDir="false" afterPath="$PROJECT_DIR$/emails.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sendgrid-php/.codeclimate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.codeclimate.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sendgrid-php/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sendgrid-php/.env.sample" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.env.sample" afterDir="false" />
@@ -372,7 +149,7 @@
       <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/SendGridTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/SendGridTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToASingleRecipientTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToASingleRecipientTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToMultipleRecipientsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToMultipleRecipientsTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/biin.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/biin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sending.php" beforeDir="false" afterPath="$PROJECT_DIR$/sending.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -388,8 +165,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+            <state relative-caret-position="500">
+              <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -406,11 +183,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sending.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+            <state relative-caret-position="440">
+              <caret line="22" column="243" selection-start-line="22" selection-start-column="243" selection-end-line="22" selection-end-column="243" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#h1#0;n#!!top" expanded="true" />
               </folding>
@@ -436,11 +213,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+            <state relative-caret-position="261">
+              <caret line="116" column="26" lean-forward="true" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
               <folding>
                 <element signature="e#1830#1880#0" />
               </folding>
@@ -559,10 +336,10 @@
         <option value="$PROJECT_DIR$/new_template_assets/scss/all.scss" />
         <option value="$PROJECT_DIR$/emails.txt" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/sending.php" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/sending.php" />
       </list>
     </option>
   </component>
@@ -699,15 +476,16 @@
       <workItem from="1551860336405" duration="974000" />
       <workItem from="1552027114828" duration="617000" />
       <workItem from="1552256419999" duration="2637000" />
-      <workItem from="1552259534274" duration="19724000" />
+      <workItem from="1552259534274" duration="20000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94093000" />
+    <option name="totallyTimeSpent" value="94369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1017" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833223" visible="true" weight="0.19637139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -724,7 +502,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298585" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053364" side_tool="true" weight="0.26463965" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.4994664" visible="true" weight="0.26463965" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4994664" weight="0.9425676" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -919,10 +697,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="116" column="26" lean-forward="true" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+          <folding>
+            <element signature="e#1830#1880#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11019">
+          <caret line="913" column="5" lean-forward="true" selection-start-line="913" selection-start-column="5" selection-end-line="913" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+        <state relative-caret-position="500">
+          <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -938,34 +740,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sending.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        <state relative-caret-position="440">
+          <caret line="22" column="243" selection-start-line="22" selection-start-column="243" selection-end-line="22" selection-end-column="243" />
           <folding>
             <element signature="n#style#0;n#img#0;n#h1#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11019">
-          <caret line="913" column="5" lean-forward="true" selection-start-line="913" selection-start-column="5" selection-end-line="913" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-          <folding>
-            <element signature="e#1830#1880#0" />
           </folding>
         </state>
       </provider>
