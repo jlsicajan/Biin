@@ -2,15 +2,377 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20598941-c919-4ae1-8a9b-4ca566e4fbed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new_template_assets/images/second_app_screenshots.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pics/first_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pics/second_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/backgrounds.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Biin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Biin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/flickity.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/flickity.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/reset.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/reset.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/testimonial.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/testimonial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/welcome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/flickity.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/flickity.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/NFC icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/NFC icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/app.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/app.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/biin_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/biin_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/camion22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/camion22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/downloads.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/downloads.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/gentecelular.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/gentecelular.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/googleplay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/googleplay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/itzel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/itzel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/jose.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/jose.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/luis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/luis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/people_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/people_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/registra.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/registra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/user_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/user_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/user_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/user_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/user_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/user_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pics/validate.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pics/validate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/favicons/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/favicons/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/app_screenshots.gif" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/app_screenshots.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/graph-04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/graph-04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/img-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/img-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/img-bg-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/img-bg-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo-footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo-footer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/second_app_screenshots.gif" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/second_app_screenshots.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/second_screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/second_screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/js/jquery-1.11.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/js/jquery-1.11.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/js/jquery.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/js/jquery.main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/0449f9a6651d844d8ecf5a3545f994a084bd4608/biin.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/0449f9a6651d844d8ecf5a3545f994a084bd4608/biin.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_alerts.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_alerts.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_badges.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_badges.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_breadcrumbs.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_breadcrumbs.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_button-groups.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_button-groups.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_buttons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_buttons.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_carousel.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_carousel.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_close.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_close.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_code.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_code.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_color.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_color.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_component-animations.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_component-animations.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_dropdowns.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_dropdowns.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_forms.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_forms.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_glyphicons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_glyphicons.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_grid.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_grid.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_input-groups.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_input-groups.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_jumbotron.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_jumbotron.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_labels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_labels.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_list-group.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_list-group.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_media.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_media.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_mixins.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_mixins.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_modals.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_modals.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navbar.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navbar.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navs.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_navs.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_normalize.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_normalize.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pager.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pager.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pagination.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_pagination.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_panels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_panels.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_popovers.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_popovers.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_print.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_print.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_progress-bars.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_progress-bars.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-embed.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-embed.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-utilities.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_responsive-utilities.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_scaffolding.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_scaffolding.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tables.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_thumbnails.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_thumbnails.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tooltip.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_tooltip.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_type.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_type.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_utilities.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_utilities.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_variables.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_wells.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/97d8a4fb12ee04d8767847b3913626642ebcd5e0/_wells.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/9eb323348467776539d8c3618ca1ee74db0916f6/_markup-mixins.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/9eb323348467776539d8c3618ca1ee74db0916f6/_markup-mixins.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_alerts.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_alerts.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_background-variant.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_background-variant.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_border-radius.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_border-radius.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_buttons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_buttons.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_center-block.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_center-block.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_clearfix.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_clearfix.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_forms.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_forms.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_gradients.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_gradients.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid-framework.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid-framework.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_grid.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_hide-text.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_hide-text.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_image.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_image.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_labels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_labels.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_list-group.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_list-group.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-divider.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-divider.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-vertical-align.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_nav-vertical-align.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_opacity.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_opacity.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_pagination.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_pagination.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_panels.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_panels.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_progress-bar.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_progress-bar.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_reset-filter.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_reset-filter.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_resize.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_resize.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_responsive-visibility.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_responsive-visibility.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_size.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_size.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_tab-focus.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_tab-focus.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_table-row.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_table-row.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-emphasis.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-emphasis.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-overflow.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_text-overflow.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_vendor-prefixes.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/e6306d9cee01047b1d0915d77d8244760ccfb7c6/_vendor-prefixes.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_bootstrap-custom.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_mq.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/_mq.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/all.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/bootstrap.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/.sass-cache/ebcc07c9bdcfef526da02132d837322c0ec81760/bootstrap.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/_mq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/_mq.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/all.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/all.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/base/_markup-mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/base/_markup-mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_alerts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_alerts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_badges.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_badges.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_breadcrumbs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_breadcrumbs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_button-groups.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_button-groups.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_close.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_component-animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_component-animations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_dropdowns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_dropdowns.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_glyphicons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_glyphicons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_input-groups.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_input-groups.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_labels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_labels.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_modals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_modals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_navs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pager.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pager.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_panels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_panels.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_popovers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_popovers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_progress-bars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_progress-bars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-embed.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_responsive-utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_scaffolding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_scaffolding.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_thumbnails.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_thumbnails.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_tooltip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_type.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_wells.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_wells.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_alerts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_alerts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_center-block.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_center-block.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_hide-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_hide-text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_labels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_labels.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-vertical-align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_nav-vertical-align.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_opacity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_opacity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_panels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_panels.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_progress-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_progress-bar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_reset-filter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_reset-filter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_responsive-visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_responsive-visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_tab-focus.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_tab-focus.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_table-row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-overflow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_text-overflow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_vendor-prefixes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/bootstrap/mixins/_vendor-prefixes.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/all.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/scss/run_sass.sh" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/run_sass.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_template_assets/videos/biinvideo.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/new_template_assets/videos/biinvideo.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/.codeclimate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.codeclimate.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/.env.sample" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.env.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/.github/ISSUE_TEMPLATE" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.github/ISSUE_TEMPLATE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/.github/PULL_REQUEST_TEMPLATE" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.github/PULL_REQUEST_TEMPLATE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/TROUBLESHOOTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/TROUBLESHOOTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/USAGE.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/USAGE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/USE_CASES.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/USE_CASES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/docker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/docker/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/docker/entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/docker/entrypoint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/accesssettings/accesssettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/accesssettings/accesssettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/alerts/alerts.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/alerts/alerts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/apikeys/apikeys.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/apikeys/apikeys.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/asm/asm.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/asm/asm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/browsers/browsers.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/browsers/browsers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/campaigns/campaigns.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/campaigns/campaigns.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/categories/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/categories/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/clients/clients.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/clients/clients.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/contactdb/contactdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/contactdb/contactdb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/devices/devices.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/devices/devices.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/geo/geo.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/geo/geo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/helpers/contacts/recipients.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/helpers/contacts/recipients.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/helpers/mail/example.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/helpers/mail/example.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/helpers/stats/example.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/helpers/stats/example.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/ips/ips.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/ips/ips.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/mail/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/mail/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/mailboxproviders/mailboxproviders.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/mailboxproviders/mailboxproviders.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/mailsettings/mailsettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/mailsettings/mailsettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/partnersettings/partnersettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/partnersettings/partnersettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/scopes/scopes.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/scopes/scopes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/senderauthentication/senderauthentication.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/senderauthentication/senderauthentication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/senders/senders.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/senders/senders.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/stats/stats.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/stats/stats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/subusers/subusers.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/subusers/subusers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/suppression/suppression.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/suppression/suppression.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/templates/templates.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/templates/templates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/trackingsettings/trackingsettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/trackingsettings/trackingsettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/examples/user/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/examples/user/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/SendGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/SendGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/contacts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/contacts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/contacts/Recipient.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/contacts/Recipient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/contacts/RecipientForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/contacts/RecipientForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/loader.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/loader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Asm.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Asm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Attachment.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Attachment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/BatchId.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/BatchId.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Bcc.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Bcc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/BccSettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/BccSettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/BypassListManagement.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/BypassListManagement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Cc.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Cc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/ClickTracking.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/ClickTracking.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Content.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/CustomArg.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/CustomArg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/EmailAddress.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/EmailAddress.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/From.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/From.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Ganalytics.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Ganalytics.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/GroupId.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/GroupId.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/GroupsToDisplay.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/GroupsToDisplay.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/HtmlContent.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/HtmlContent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/IpPoolName.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/IpPoolName.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/MailSettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/MailSettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/MimeType.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/MimeType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/OpenTracking.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/OpenTracking.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Personalization.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Personalization.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/PlainTextContent.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/PlainTextContent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/ReplyTo.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/ReplyTo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/SandBoxMode.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SandBoxMode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Section.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/SendAt.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SendAt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/SpamCheck.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SpamCheck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Subject.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Subject.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/SubscriptionTracking.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/SubscriptionTracking.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/Substitution.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/Substitution.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/TemplateId.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/TemplateId.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/To.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/To.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/TrackingSettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/TrackingSettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/mail/TypeException.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/mail/TypeException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/lib/stats/Stats.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/lib/stats/Stats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/phpcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/phpcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/sendgrid-php.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/sendgrid-php.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/BaseTestClass.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/BaseTestClass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/data/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/data/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Alerts/AlertsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Alerts/AlertsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/ApiKeys/ApiKeysTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/ApiKeys/ApiKeysTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Asm/AsmGroupsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Asm/AsmGroupsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Asm/AsmSuppressionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Asm/AsmSuppressionTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Campaigns/CampaignsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Campaigns/CampaignsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Categories/CategoriesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Categories/CategoriesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Contacts/ContactDbTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Contacts/ContactDbTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Ip/IpPoolsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Ip/IpPoolsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Ip/IpsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Ip/IpsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Ip/IpsWarmupTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Ip/IpsWarmupTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailBatchTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailBatchTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailSendTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailSendTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailSettingsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailSettingsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailboxProvidersTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Mail/MailboxProvidersTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Scopes/ScopesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Scopes/ScopesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/SenderAuthentication/DomainAuthenticationTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/SenderAuthentication/DomainAuthenticationTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/SenderAuthentication/LinkBrandingTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/SenderAuthentication/LinkBrandingTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/SenderAuthentication/ReverseDNSTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/SenderAuthentication/ReverseDNSTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Senders/SendersTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Senders/SendersTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Settings/AccessSettingsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Settings/AccessSettingsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Settings/PartnerSettingsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Settings/PartnerSettingsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Settings/TrackingSettingsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Settings/TrackingSettingsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/BrowserStatsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/BrowserStatsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/ClientsStatsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/ClientsStatsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/DevicesStatsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/DevicesStatsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/GeoStatsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/GeoStatsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/StatsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Stats/StatsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Subusers/SubUsersTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Subusers/SubUsersTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionBlocksTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionBlocksTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionBouncesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionBouncesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionInvalidEmailsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionInvalidEmailsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionSpamReportsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionSpamReportsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionUnsubscribesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Suppression/SuppressionUnsubscribesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Templates/TemplatesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Templates/TemplatesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/Users/UserTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/Users/UserTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/helpers/contacts/RecipientsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/helpers/contacts/RecipientsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/integration/helpers/stats/StatsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/integration/helpers/stats/StatsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/phpunit.xml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/phpunit.xml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/AttachmentsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/AttachmentsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/DynamicTemplateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/DynamicTemplateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/FilesExistTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/FilesExistTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/KitchenSinkTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/KitchenSinkTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/MailGetContentsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/MailGetContentsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/MailHelperTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/MailHelperTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/MultipleEmailToMultipleRecipientsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/MultipleEmailToMultipleRecipientsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/SendGridTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/SendGridTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToASingleRecipientTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToASingleRecipientTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToMultipleRecipientsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/sendgrid-php/test/unit/SingleEmailToMultipleRecipientsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/biin.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/biin.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +386,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="186" column="48" selection-start-line="186" selection-start-column="48" selection-end-line="186" selection-end-column="48" />
+            <state relative-caret-position="340">
+              <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emails.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sending.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#h1#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -35,11 +430,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1789">
-              <caret line="1415" column="35" lean-forward="true" selection-start-line="1415" selection-start-column="35" selection-end-line="1415" selection-end-column="35" />
-              <folding>
-                <element signature="e#9083#9375#0" />
-              </folding>
+            <state relative-caret-position="-11019">
+              <caret line="913" column="5" lean-forward="true" selection-start-line="913" selection-start-column="5" selection-end-line="913" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -47,26 +439,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="129" column="18" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+            <state relative-caret-position="381">
+              <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+              <folding>
+                <element signature="e#1830#1880#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/flickity.pkgd.min.js">
+        <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="12" column="17863" selection-start-line="12" selection-start-column="17863" selection-end-line="12" selection-end-column="17863" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/testimonial.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            <state relative-caret-position="920">
+              <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -82,24 +468,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>app_sc</find>
-      <find>magnifi</find>
-      <find>magnific</find>
-      <find>font</find>
-      <find>fonts</find>
-      <find>me.jp</find>
-      <find>via</find>
-      <find>David Smi</find>
-      <find>designer</find>
-      <find>typer</find>
-      <find>Web De</find>
-      <find>logo</find>
       <find>Follow me</find>
       <find>Jose Sicajan</find>
       <find>#typer</find>
       <find>about_me</find>
       <find>correo ele</find>
-      <find>email_to_subscribe</find>
       <find>.testimonial-quote</find>
       <find>.testimonial</find>
       <find>659</find>
@@ -112,11 +485,25 @@
       <find>testimonial-quote</find>
       <find>que dicen nues</find>
       <find>know_us</find>
+      <find>monedas..</find>
+      <find>reinve</find>
+      <find>camion22</find>
+      <find>modeni</find>
+      <find>paga el tr</find>
+      <find>text-white</find>
+      <find>text-dark</find>
+      <find>text-main</find>
+      <find>form</find>
+      <find>email_to_subscribe</find>
+      <find>.main_header_image</find>
+      <find>main_header_image</find>
+      <find>moderni</find>
     </findStrings>
     <replaceStrings>
       <replace>img-circle no-width</replace>
       <replace>customer-name c-black</replace>
       <replace>text-dark</replace>
+      <replace>text-biin-white</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -125,9 +512,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.css" />
-        <option value="$PROJECT_DIR$/main.html" />
-        <option value="$PROJECT_DIR$/testimonial.css" />
         <option value="$PROJECT_DIR$/assets/js/testimonial.js" />
         <option value="$PROJECT_DIR$/welcome html.html" />
         <option value="$PROJECT_DIR$/original.html" />
@@ -148,33 +532,45 @@
         <option value="$PROJECT_DIR$/new_template_assets/scss/_bootstrap-custom.scss" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/css/all.css" />
         <option value="$PROJECT_DIR$/views/biin.html" />
-        <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" />
         <option value="$PROJECT_DIR$/views/biin_new_template.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/.env" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/public/template/js/custom.js" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/app/Http/Controllers/MainController.php" />
-        <option value="$PROJECT_DIR$/../../laravel/jl_page/routes/web.php" />
-        <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/resume.blade.php" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/services.blade.php" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/portfolio.blade.php" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/blog.blade.php" />
         <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/contact.blade.php" />
-        <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/about-me.blade.php" />
-        <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/app.blade.php" />
-        <option value="$PROJECT_DIR$/new_template_assets/scss/all.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/testimonial.css" />
+        <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/about-me.blade.php" />
+        <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/app.blade.php" />
+        <option value="$PROJECT_DIR$/../../laravel/jl_page/routes/web.php" />
+        <option value="$PROJECT_DIR$/../../laravel/jl_page/app/Http/Controllers/NBController.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+        <option value="$PROJECT_DIR$/send_grid_php/test_file.php" />
+        <option value="$PROJECT_DIR$/send_grid_php/lidn.txt" />
+        <option value="$PROJECT_DIR$/send_grid_php/test_sending.php" />
+        <option value="$PROJECT_DIR$/send_grid_php/sending.php" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/backgrounds.scss" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/all.scss" />
+        <option value="$PROJECT_DIR$/emails.txt" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sending.php" />
+        <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
     <option name="width" value="1920" />
-    <option name="height" value="1073" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -189,17 +585,56 @@
               <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Biin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="pics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Biin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Biin" type="462c0819:PsiDirectoryNode" />
+              <item name="new_template_assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Biin" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../laravel/jl_page" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -208,17 +643,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/pics" />
+      <recent name="$PROJECT_DIR$/../../laravel/jl_page/public" />
       <recent name="$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl" />
       <recent name="$PROJECT_DIR$/../../laravel/jl_page/public/template" />
       <recent name="$PROJECT_DIR$/../../laravel/jl_page/public/img" />
-      <recent name="$PROJECT_DIR$/../../laravel/jl_page/public/static_css_js" />
-      <recent name="$PROJECT_DIR$/new_template_assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../../laravel/jl_page/public/template/images" />
       <recent name="$PROJECT_DIR$/new_template_assets/scss" />
       <recent name="$PROJECT_DIR$/views" />
       <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -257,17 +693,23 @@
       <workItem from="1550903261806" duration="23182000" />
       <workItem from="1551056831730" duration="7730000" />
       <workItem from="1551310410942" duration="728000" />
-      <workItem from="1551322013773" duration="6654000" />
+      <workItem from="1551322013773" duration="7174000" />
+      <workItem from="1551336486097" duration="950000" />
+      <workItem from="1551764612215" duration="2333000" />
+      <workItem from="1551860336405" duration="974000" />
+      <workItem from="1552027114828" duration="617000" />
+      <workItem from="1552256419999" duration="2637000" />
+      <workItem from="1552259534274" duration="19724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66338000" />
+    <option name="totallyTimeSpent" value="94093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="35" width="3200" height="1635" extended-state="7" />
+    <frame x="1920" y="-2" width="1920" height="1017" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833223" weight="0.18476863" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49833223" visible="true" weight="0.19637139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5016678" side_tool="true" weight="0.24983211" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -280,9 +722,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298585" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053364" side_tool="true" weight="0.26463965" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.42804968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.4994664" visible="true" weight="0.26463965" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -315,59 +757,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="1118" column="22" lean-forward="true" selection-start-line="1118" selection-start-column="22" selection-end-line="1118" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/second_screen.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-01.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-02.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-03.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/graph-04.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/img-01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/img-bg-01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/logo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/images/logo-2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/pics/app.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/pics/downloads.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/pics/googleplay.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/pics/people_2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -376,13 +765,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/images/video-placeholder.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/pics/camion22.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -402,12 +784,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/composer.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/composer.lock" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/.gitignore" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" />
     <entry file="file://$PROJECT_DIR$/views/biin.html">
@@ -433,141 +811,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/static_css_js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="5" column="115" selection-start-line="5" selection-start-column="115" selection-end-line="5" selection-end-column="115" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/template/images/01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/template/images/ajax-loader.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/template/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="125" column="26" lean-forward="true" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/app/Http/Controllers/MainController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1114">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="70" column="22" lean-forward="true" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/resume.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="231" column="11" lean-forward="true" selection-start-line="231" selection-start-column="11" selection-end-line="231" selection-end-column="11" />
-          <folding>
-            <element signature="e#95#13848#0#HTML" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/services.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7160">
-          <caret line="358" column="10" selection-start-line="358" selection-start-column="10" selection-end-line="358" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/portfolio.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#96#7315#0#HTML" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/blog.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4740">
-          <caret line="237" column="11" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/contact.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#92#4694#0#HTML" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/about-me.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1120">
-          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="77" column="104" selection-start-line="77" selection-start-column="96" selection-end-line="77" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/testimonial.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/.env" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/static_css_js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/template/images/01.png" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/template/images/ajax-loader.gif" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/template/js/custom.js" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/resume.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/services.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/portfolio.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/blog.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/contact.blade.php" />
     <entry file="file://$PROJECT_DIR$/assets/js/flickity.pkgd.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -575,27 +828,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/testimonial.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/home.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/public/template/images/logo.png" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/app.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/jl/about-me.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/welcome.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/resources/views/layouts/app.blade.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/routes/web.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/app/Http/Controllers/HomeController.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/app/Http/Controllers/MainController.php" />
+    <entry file="file://$PROJECT_DIR$/../../laravel/jl_page/app/Http/Controllers/NBController.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_grid_php/another.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_grid_php/emails.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_grid_php/test_file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_grid_php/lidn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
-          <caret line="186" column="48" selection-start-line="186" selection-start-column="48" selection-end-line="186" selection-end-column="48" />
+          <caret line="5622" lean-forward="true" selection-start-line="5622" selection-end-line="5622" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/backgrounds.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap/_color.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="357" column="30" selection-start-line="357" selection-start-column="30" selection-end-line="357" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emails.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sending.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#h1#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/email_modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/all.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1789">
-          <caret line="1415" column="35" lean-forward="true" selection-start-line="1415" selection-start-column="35" selection-end-line="1415" selection-end-column="35" />
-          <folding>
-            <element signature="e#9083#9375#0" />
-          </folding>
+        <state relative-caret-position="-11019">
+          <caret line="913" column="5" lean-forward="true" selection-start-line="913" selection-start-column="5" selection-end-line="913" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new_template_assets/scss/utilities/biin.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="129" column="18" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+        <state relative-caret-position="381">
+          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+          <folding>
+            <element signature="e#1830#1880#0" />
+          </folding>
         </state>
       </provider>
     </entry>

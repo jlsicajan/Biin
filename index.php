@@ -19,18 +19,18 @@
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start':
-                new Date().getTime(), event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-PWWRSQ9');</script>
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PWWRSQ9');</script>
     <!-- End Google Tag Manager -->
     <title>Biin Transporte Publico</title>
     <!-- this is the code that will allow icon to be visible in the title bar of the brower -->
@@ -64,7 +64,7 @@
     <header id="header">
         <div class="container">
             <div class="logo">
-                <a href="#"><img class="biin_logo" src="assets/pics/biin_logo.png" alt="BiiN"></a>
+                <a href="."><img class="biin_logo" src="assets/pics/biin_logo.png" alt="BiiN"></a>
             </div>
             <nav id="nav">
                 <div class="opener-holder">
@@ -73,10 +73,10 @@
                 <a href="http://get.biin.mx" class="btn btn-primary rounded">Descarga!!</a>
                 <div class="nav-drop">
                     <ul>
-                        <li><a class="text-dark " href="http://biin.mx/comunidad.html">Comunidad Biin</a></li>
-                        <li><a class="text-dark" href="http://blog.biin.mx">BiiN Blog</a></li>
-                        <li><a class="text-dark" href="http://comunidad.biin.mx">Foro BiiN</a></li>
-                        <li><a class="text-dark" href="http://biin.mx/cuentanos.html">Contacto</a></li>
+                        <li><a class="text-white" href="http://biin.mx/comunidad.html">Comunidad Biin</a></li>
+                        <li><a class="text-white" href="http://blog.biin.mx">BiiN Blog</a></li>
+                        <li><a class="text-white" href="http://comunidad.biin.mx">Foro BiiN</a></li>
+                        <li><a class="text-white" href="http://biin.mx/cuentanos.html">Contacto</a></li>
                     </ul>
                     <div class="drop-holder visible-sm visible-xs">
                         <span>Siguenos</span>
@@ -99,11 +99,15 @@
                 <div class="heading-holder">
                     <h1>BiiN</h1>
                 </div>
-                <p class="tagline"><strong>Modernízate ahora y olvídate de las monedas</strong></p>
-                <span class="info text-main"><strong>PAGA EL TRASPORTE PÚBLICO CON TU CELULAR</strong></span>
+                <p class="tagline text-biin-white main_p_subtitle">
+                    <strong class="main-background main_subtitle">Modernízate ahora y olvídate de las monedas</strong>
+                </p>
+                <span class="info text-biin-white main_third_title">
+                    <strong>PAGA EL TRASPORTE PÚBLICO CON TU CELULAR</strong>
+                </span>
             </div>
         </div>
-        <img src="assets/pics/camion22.jpg" alt="Image 1" class="w3-image main_header_image">
+        <img src="assets/pics/second_banner.jpg" alt="Image 1" class="w3-image main_header_image">
     </section>
     <section class="main">
         <div class="container">
@@ -121,7 +125,7 @@
                 </div>
                 <div class="text-box col-md-12 col-sm-12">
                     <p>Paga el transporte público con tu celular - Descarga nuestra aplicación,
-                        acerca tu celular al lector y olvidate de las monedas..</p>
+                        acerca tu celular al lector y olvidate de las monedas.</p>
                     <a class="l-height-15" href="http://get.biin.mx" target="_blank">
                         <img src="assets/pics/googleplay.png" alt="Descarga" style="width:120px;height:42px;border:0;">
                     </a>
@@ -136,28 +140,32 @@
                 <h2 class="text-main text-center how_it_works">¿Cómo funciona?</h2>
                 <div class="col-sm-12 col-md-6 d-flex align-items-center justify-center flex-column how_it_works_items">
                     <div class="row">
-                        <div class="col-md-4 col-sm-3 col-xs-5"><img src="assets/pics/downloads.png" width="110" alt=""></div>
+                        <div class="col-md-4 col-sm-3 col-xs-5"><img src="assets/pics/downloads.png" width="110" alt="">
+                        </div>
                         <div class="col-md-8 col-sm-9 col-xs-7">
                             <h3><strong>Descarga</strong></h3>
                             <p>Descarga la aplicacion desde Google Play o de la Appstore. </p>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-sm-3 col-xs-5"><img class="pull-left" src="assets/pics/registra.png" width="105" alt=""></div>
+                        <div class="col-md-4 col-sm-3 col-xs-5"><img class="pull-left" src="assets/pics/registra.png"
+                                                                     width="105" alt=""></div>
                         <div class="col-md-8 col-sm-9 col-xs-7">
                             <h3><strong>Registrate</strong></h3>
                             <p>Registrate en la aplicación. </p>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-sm-3 col-xs-5"><img src="assets/pics/NFC%20icon.png" height="105" alt=""></div>
+                        <div class="col-md-4 col-sm-3 col-xs-5"><img src="assets/pics/NFC%20icon.png" height="105"
+                                                                     alt=""></div>
                         <div class="col-md-8 col-sm-9 col-xs-7">
                             <h3><strong>Acerca tu celular</strong></h3>
                             <p>Acerca tu celular al TAG en el autobus y espera unos segundos. </p>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-sm-3 col-xs-5"><img src="assets/pics/validate.png" height="105" alt=""></div>
+                        <div class="col-md-4 col-sm-3 col-xs-5"><img src="assets/pics/validate.png" height="105" alt="">
+                        </div>
                         <div class="col-md-8 col-sm-9 col-xs-7">
                             <h3><strong>Confirma</strong></h3>
                             <p>Confirma tu viaje al conductor. </p>
@@ -233,7 +241,7 @@
                     <h3 class="text-main"><strong>Suscríbete a nuestros comunicados</strong></h3>
                 </div>
                 <div class="col-md-12 col-lg-6 col-sm-12">
-                    <form class="form-inline" id="subscribe_to">
+                    <form class="form-inline" id="subscribe_to" autocomplete="off">
                         <button type="submit" class="btn btn-primary rounded suscribe subscribe_btn">Suscribirme
                         </button>
                         <div class="form-group">
@@ -249,7 +257,7 @@
     <footer id="footer">
         <div class="container">
             <div class="footer-holder">
-                <div class="row  text-center">
+                <div class="row text-center">
                     <div class="col-md-12">
                         <a href="#"><img src="assets/pics/biin_logo.png" alt="Sports HTML Template"></a>
                     </div>
@@ -266,9 +274,9 @@
                         <h3>El transporte publico es de todos</h3>
                         <br>
                         <a href="http://www.biin.mx/terminosycondiciones.html" target="_blank"><p class="w3-medium">
-                            Términos y condiciones</p></a>
+                                Términos y condiciones</p></a>
                         <a href="http://www.biin.mx/aviso-privacidad.html" target="_blank"><p class="w3-medium">
-                            Políticas de privacidad</p></a>
+                                Políticas de privacidad</p></a>
                         <a href="http://blog.biin.mx" target="_blank"><p class="w3-medium">BiiN Blog</p></a>
                         <a href="http://comunidad.biin.mx" target="_blank"><p class="w3-medium">Comunidad BiiN</p></a>
 
@@ -279,7 +287,7 @@
                             <li><a href="http://www.facebook.com/biinmex"><i class="fa fa-facebook-f"></i></a></li>
                             <li><a href="https://www.instagram.com/biinmex"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="https://www.youtube.com/channel/UC3CMXs1tWtD9-y02zz5W26w"><i
-                                    class="fa fa-youtube"></i></a></li>
+                                        class="fa fa-youtube"></i></a></li>
                             <li><a href="http://www.twitter.com/biinmex"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="http://www.linkedin.com/company/biinmx"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
@@ -287,17 +295,46 @@
                 </div>
             </div>
         </div>
-        <div class="row  text-center">
+        <div class="row text-center">
             <p>Powered by <a href="https://www.biin.mx" target="_blank" class="w3-hover-text-green">Biin
-                Science SAPI de CV</a></p>
+                    Science SAPI de CV</a></p>
         </div>
     </footer>
+</div>
+<div class="modal_container hide">
+    <div class="modal_subscribe">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="close_modal_subscribe">
+                    <span id="x">X</span>
+                </div>
+                <div class="modal-body">
+                    <h2 class="text-main"><strong>Gracias por suscribirte.</strong></h2>
+                    <h2 class="text-main"><strong>Pronto recibirás nuestros comunicados.</strong></h2>
+                </div>
+            </div>
+        </div>
+        <div class="modal_background"></div>
+    </div>
 </div>
 <script src="new_template_assets/js/jquery-1.11.2.min.js"></script>
 <script src="new_template_assets/js/bootstrap.js"></script>
 <script src="new_template_assets/js/jquery.main.js"></script>
 <script src="assets/js/flickity.pkgd.min.js"></script>
 <script type="text/javascript">
+    // change header image after 2 seconds
+    var images = ['second_banner.jpg', 'first_banner.jpg'],
+        index = 0, // starting index
+        max_images = images.length - 1;
+    var timer = setInterval(function () {
+        var current_image = images[index];
+        index = (index == max_images) ? 0 : ++index;
+        $('.main_header_image').fadeOut(300, function () {
+            $('.main_header_image').attr("src", 'assets/pics/' + current_image);
+            $('.main_header_image').fadeIn(300);
+        });
+    }, 7000);
+
     var flkty = new Flickity('.main-gallery', {
         cellAlign: 'left',
         contain: true,
@@ -307,13 +344,31 @@
     });
     $('.suscribe').unbind('click').click(function (e) {
         e.preventDefault();
+        $('.subscribe_btn').addClass('disabled');
         let email_to_send = $('.email_to_subscribe').val();
         if (email_to_send != '') {
-            alert('Pronto recibirás nuestros comunicados ' + email_to_send + '.');
-            $('#subscribe_to').trigger('reset');
+            send_welcome_email(email_to_send, function () {
+                $('#subscribe_to').trigger('reset');
+                $('.modal_container').removeClass('hide');
+                $('.subscribe_btn').removeClass('disabled');
+            });
         } else {
             alert('Por favor ingresa tu correo.')
         }
+    });
+
+    function send_welcome_email(new_email, callback) {
+        $.post("sending.php", {new_email: new_email}).done(
+            function (data) {
+                callback();
+            }
+        );
+    }
+
+    $(document).ready(function(){
+        $('.close_modal_subscribe').unbind('click').click(function(){
+            $('.modal_container').addClass('hide');
+        });
     });
 </script>
 <!-- Google Tag Manager (noscript) -->
